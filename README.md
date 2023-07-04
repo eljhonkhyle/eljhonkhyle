@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m an aspiring frontend developer
+- :telescope: I’m an aspiring frontend dev.
 
 - :seedling: Exploring frontend frameworks, expanding skillset.
 
