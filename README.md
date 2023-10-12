@@ -8,8 +8,8 @@
 
 - :seedling: Exploring frontend frameworks, expanding skillset.
 
---
--
+<h2 align="center"></h2>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
