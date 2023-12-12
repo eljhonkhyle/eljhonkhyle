@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, I'm Eljhon 👋</h1>
 
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 - :telescope: Frontend Developer
 
@@ -11,7 +11,7 @@
 <h2 align="center"></h2>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div align="center">
    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
